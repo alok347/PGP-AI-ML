@@ -5,10 +5,12 @@ The Foundations block comprises of two courses where we get our hands dirty with
 # Python for AI & ML
 Duration 2 Quizzes
 Duration 1 Project
-Applied Statistics
+
+# Applied Statistics
 Duration 3 Quizzes
 Duration 1 Project
-Machine Learning
+
+# Machine Learning
 The next module is the Machine Learning online course that will teach us all the Machine Learning techniques from scratch, and the popularly used Classical ML algorithms that fall in each of the categories.
 
 # Supervised Learning
